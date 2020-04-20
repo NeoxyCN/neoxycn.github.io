@@ -1,0 +1,31 @@
+{
+	"auth": [
+		{
+			"username": "Neoxy"
+		}
+	],
+	"blog": [
+		{
+			"name": "Neoxy's Blog",
+			"title": "Neoxy",
+			"footer": "@Neoxy 2015-2020",
+			"num": 2,
+			"datestyle":"%Y-%m-%d %H:%M:%S"
+		}
+	],
+	"posts": [
+		{
+			"title": "重新开了个博客",
+			"date": 1530347820
+		},
+		{
+			"title": "OpenGL图形分析",
+			"date": 1534645680
+		}
+	],
+	"img": [
+		{
+			"img": "files/img/opengl3/blender_plane.png"
+		}
+	]
+}

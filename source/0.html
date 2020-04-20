@@ -1,0 +1,24 @@
+直入话题，如果用Blender来绘制一个Plane。<p>
+	<img src="../files/img/opengl3/blender_plane.png" class="img-rounded"></p>
+然后导出为OBJ格式（还会附赠一个mtl格式的文件），然后用Notepad++打开:
+<p><code>
+# Blender v2.79 (sub 0) OBJ File: ''<p>
+# www.blender.org<p>
+mtllib untitled.mtl<p>
+o Plane<p>
+v -1.000000 0.000000 1.000000<p>
+v 1.000000 0.000000 1.000000<p>
+v -1.000000 0.000000 -1.000000<p>
+v 1.000000 0.000000 -1.000000<p>
+vn 0.0000 1.0000 0.0000<p>
+usemtl None<p>
+s off<p>
+f 1//1 2//1 4//1 3//1</code></p>
+v表示的是点的坐标：<p>
+	<pre>
+v -1.000000 0.000000 1.000000
+v 1.000000 0.000000 1.000000
+v -1.000000 0.000000 -1.000000
+v 1.000000 0.000000 -1.000000
+</pre>
+	就像Minecraft里的X/Y/Z一样，其实也就是这样的，因为绘制后没有移动，所以Y是0。<p>
