@@ -9,7 +9,7 @@
 			"name": "Neoxy's Blog",
 			"title": "Neoxy",
 			"footer": "@Neoxy 2015-2020",
-			"num": 2,
+			"num": 3,
 			"datestyle":"%Y-%m-%d %H:%M:%S"
 		}
 	],
@@ -21,6 +21,10 @@
 		{
 			"title": "OpenGL图形分析",
 			"date": 1534645680
+		},
+		{
+			"title": "最近的一些事和自己的想法",
+			"date": 1587359202
 		}
 	],
 	"img": [
