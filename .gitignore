@@ -1,6 +1,8 @@
 js/
 .idea/
 .git/
+source/*
+posts/*
 posts_old/
 404.html
 CNAME
